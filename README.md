@@ -1,8 +1,4 @@
-
-
-
-
-> ># A* Pseudocode
+> ># A* Pseudocode (from UDACITY C++ Course)
 > 
 > A* search works by sorting the open list using the f-value, and using the node with the lowest f-value as the next 
 > node in the search. This process continues until the goal node has been found or the open list runs out of nodes to 
@@ -35,4 +31,3 @@
 >* h - a consistent heuristic function (optimistic guess) h(x,y) <= distance to goal from x,y 
 >* this pseudocode was provided by Udacity
 
-# udacity_Astar
